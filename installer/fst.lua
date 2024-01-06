@@ -1,5 +1,5 @@
 local computer = require("computer")
-local repo = "https://github.com/KilDoomWise/AstroNet/"
+local repo = "https://raw.githubusercontent.com/KilDoomWise/AstroNet/main"
 
 
 computer.beep(1000, 0.3)
